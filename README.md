@@ -17,6 +17,6 @@ For the Model Evaluation, I used:
 4. Accuracy
 5. Confusion Matrix
 
-This project was inspired from this two refrence, so go check them out:
+This project was inspired from this two references, so go check them out:
 1. [Loan Status Classification](https://www.kaggle.com/code/sazack/loan-status-classification)
 2. [Top 6 Machine Learning Algorithms for Classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
