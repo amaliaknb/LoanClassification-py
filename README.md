@@ -20,3 +20,5 @@ For the Model Evaluation, I used:
 This project was inspired from this two references, so go check them out:
 1. [Loan Status Classification](https://www.kaggle.com/code/sazack/loan-status-classification)
 2. [Top 6 Machine Learning Algorithms for Classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
+
+![image](https://user-images.githubusercontent.com/103926829/170031285-5e6bb71c-a746-4d2b-8a2b-be25c4a5c595.png)
